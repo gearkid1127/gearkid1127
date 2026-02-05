@@ -13,7 +13,7 @@ At the end of the day, I like making things for people and making them easy to u
 * 🌍  I'm based in Chicago, Illinois
 * ✉️  You can contact me at [kriley1127@gmail.com](mailto:kriley1127@gmail.com)
 * 🚀  I'm currently working on [Grocery Optimizer](https://grocery-optimizer-seven.vercel.app/)
-* 🧠  I'm currently learning Vue
+* 🧠  I'm currently learning React Native
 * 👥  I'm looking to collaborate on Frontend projects where design and functionality actually matter.
 * 💬  I'm always thinking about the person on the other side of the screen.
 
