@@ -6,7 +6,7 @@ Frontend Software Engineer
 
 Frontend developer and former classroom teacher who enjoys building clear, intuitive interfaces that actually help people.
 
-I work with React, TypeScript, and modern CSS to turn ideas into responsive, user-friendly products. My projects include a YouTube-style platform, a multi-store shopping app, and dynamic UI dashboards.
+I work with React, TypeScript, and modern CSS to turn ideas into responsive, user-friendly products. My projects include a perfect seating chart generator for teachers, a multi-store shopping app, and dynamic UI dashboards.
 
 At the end of the day, I like making things for people and making them easy to use.
 
